@@ -1,0 +1,50 @@
+{
+  "basics": {
+    "name": "B.Lokeshwaran",
+    "email": "lokeshb156@gmail.com",
+    "phone": "7330989968",
+    "degree": "B.E",
+    "summary": "I am a fresher",
+    "location": {
+      "address": "c block",
+      "city": "Perungudi,Chennai",
+      "country": "India"
+    },
+    "profiles": [
+      {
+        "network": " Instagram",
+        "username": "LokeshB"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "TJS Enginerring College",
+      "area": "Mechanical",
+      "studyType": "Fulltime",
+      "startDate": "01-8-2016",
+      "endDate": "30-09-2020",
+      "gpa": "8.09"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["('Java','SQL')"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    { "language": "Tamil", "fluency": "professional" }
+  ],
+  "interests": [
+    {
+      "name": "video games",
+      "keywords": ["(ps3', 'ps4', 'xbox')"]
+    }
+  ]
+}
